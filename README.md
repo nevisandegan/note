@@ -26,9 +26,11 @@ style with tailwind
 backend with Convex ,edgestore
 
 
-both npm should be run : 
-npm run dev;
-npx convex dev;
+both npm should be run : <br/>
+npx convex dev
+<br/>
+npm run dev
+
 
 
 
